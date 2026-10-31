@@ -1,0 +1,6 @@
+*.o
+secure_vault
+vault.db
+.DS_Store
+*~
+*.swp
